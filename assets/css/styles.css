@@ -2,6 +2,14 @@
     font-family: Helvetica;
 }
 
+.blog-listing {
+    margin: 5px 0px;
+}
+
+.tags-listing {
+    margin: 0px 50px;
+}
+
 .fixed-footer {
     position: fixed;
     bottom: 20px;
@@ -28,3 +36,4 @@ ol ol {
 ol ol ol {
     list-style-type: lower-roman;
 }
+

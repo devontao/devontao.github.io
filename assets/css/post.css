@@ -2,16 +2,6 @@ h1 {
     margin: 10px 0px;
 }
 
-.tag {
-    padding: 4px;
-    border-radius: 10px;
-}
-
 #date {
     margin-right: 50px;
-}
-
-#reason-to-be  {
-    background-color: rgb(127, 210, 255);
-    color: rgb(0, 76, 163);
 }
