@@ -13,7 +13,7 @@
             <em id="date"> {{ page.date | date: "%B %d, %Y" }} </em>
             tags: 
             {% for tag in page.tags %}
-                <span class="tag" id="{{ tag }}"><a href="{{ site.url }}/blog/tags/#{{ tag }}">{{ tag }}</a></span>
+                <span class="tag" id="{{ tag }}"><a href="{{ site.url }}/blog/tags#{{ tag }}">{{ tag }}</a></span>
             {% endfor %}
         </div>
         <hr>
