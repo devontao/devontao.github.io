@@ -2,12 +2,21 @@
     font-family: Helvetica;
 }
 
+blockquote {
+    font-style: italic;
+    color: gray;
+}
+
+blockquote p {
+    margin: 0;
+}
+
 .blog-listing {
     margin: 5px 0px;
 }
 
 .tags-listing {
-    margin: 0px 50px;
+    margin: 0px 0px 10px 50px;
 }
 
 .fixed-footer {
