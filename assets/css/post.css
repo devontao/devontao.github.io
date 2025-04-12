@@ -2,6 +2,16 @@ h1 {
     margin: 10px 0px;
 }
 
+.image {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.image img {
+    width: 80%
+}
+
 #date {
     margin-right: 50px;
 }
