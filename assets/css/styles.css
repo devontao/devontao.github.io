@@ -2,6 +2,10 @@
     font-family: Helvetica;
 }
 
+h4 {
+    text-decoration: underline;
+}
+
 blockquote {
     font-style: italic;
     color: gray;
@@ -30,8 +34,16 @@ blockquote p {
     margin: 5% 20%;
 }
 
+.math-block {
+    text-align: center;
+}
+
 .project-name {
     font-weight: bold;
+}
+
+.todo {
+    color: red;
 }
 
 .video-embed {
