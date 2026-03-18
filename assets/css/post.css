@@ -2,13 +2,17 @@ h1 {
     margin: 10px 0px;
 }
 
+figure {
+    text-align: center;
+}
+
 .image {
     display: flex;
     justify-content: center;
     width: 100%;
 }
 
-.image img {
+.image img, figure img {
     height: 300px;
 }
 
